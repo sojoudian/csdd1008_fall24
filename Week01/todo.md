@@ -1,4 +1,4 @@
-1- bring your laptop. /
+1- bring your laptop. \
 2- Installing git bash on your Windows, install git on mac (using brew)/
 3- Install VMware workstation or Fusion /
 4- Download Debian using following links: /
